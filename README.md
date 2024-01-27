@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JuanmaBuilds
+- 👋 Hi, I’m Juanma
 - 👀 I’m interested in learning different technologies and building my own products 
 - 🌱 I’m currently learning nestJs and Angular 
 - 📫 You can reach me at juanma.francog15@gmail.com
