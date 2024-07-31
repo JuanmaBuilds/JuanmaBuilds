@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Juanma
 - 👀 I’m interested in learning different technologies and building my own products 
-- 🌱 I’m currently learning nestJs and Angular 
+- 🌱 I’m currently learning nestJs and Angular , Ruby and Rails and Elixir
 - 📫 You can reach me at juanma.francog15@gmail.com
 
 <!---
