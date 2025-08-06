@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Juanma
-- 👀 I’m interested in learning different technologies and building my own products 
-- 🌱 I’m currently learning nestJs and Angular , Ruby and Rails and Elixir
-- 📫 You can reach me at juanma.francog15@gmail.com
+Hello!
+-  I’m currently learning nestJs and Angular , Ruby, Rails and Elixir
+-  You can reach me at juanma.francog15@gmail.com
 
 <!---
 JuanmaBuilds/JuanmaBuilds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
